@@ -1,0 +1,12 @@
+INSIGHTS:
+
+1. There are total of 586K songs composed by 110K artists between the years 1900 to 2020.
+2. The year 1999 has a relatively steady percent of total popularity
+3. Danceability has an upward trend when key value is '5'.
+4. Populartiy and name both are correlated by the release year of the song.
+5. Artist 'Die drei' has the highest danceability for time_signature '3'.
+6. There is a slightly positive correlation between name and valence.
+7. Artist 'TKKG Retrorchiv' has the highest popularity for the year 1987 and 'Die drei' has the highest popularity for the year 1996.
+8. Danceability has an upward trend when key is 5 and time_signature is 4.
+9. There is a strong positive correlations between 'Energy' and 'Loudness'.
+10. Artist 'Die drei' has composed 3.9k songs which is highest in count of songs.
